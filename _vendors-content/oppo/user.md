@@ -1,4 +1,4 @@
----
+sh /sdcard/---
 manufacturer: 
     - oppo
 
